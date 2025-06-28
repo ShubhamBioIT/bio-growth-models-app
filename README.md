@@ -23,7 +23,7 @@ Created by **Shubham Mahindrakar** for MSc Bioinformatics learners and enthusias
 
 ## 📷 Preview
 
-![App Preview](https://github.com/ShubhamBioIT/bio-growth-models-app/assets/preview_image.png)
+![App Preview](https://github.com/ShubhamBioIT/bio-growth-models-app/preview_image.png)
 
 ---
 
